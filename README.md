@@ -10,6 +10,7 @@ Originally posted to [Sourceforge](https://sourceforge.net/projects/openhands/)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/my443//master/img/Screenshot1.png" alt="Screenshot #1">
+<img src="https://github.com/my443/open-hands-cs/blob/master/img/Screenshot1.png" alt="Screenshot #1">
 
 </div>
+
